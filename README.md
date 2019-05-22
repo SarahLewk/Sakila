@@ -1,2 +1,2 @@
 # Sakila
-SQL Homework
+SQL Project
